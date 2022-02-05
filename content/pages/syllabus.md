@@ -30,12 +30,57 @@ Grading
 
 Grading will be based on: concept (25%), execution of individual projects (25%), class participation (25%) and demonstrated growth over the course of the semester (25%). Completion of all projects is required for a passing grade, as is regular attendance. Unexcused absences will automatically lower a grade by 1/2 a letter grade.
 
-| ACTIVITIES | PERCENTAGES |
-| --- | --- |
-| Concept of individual projects | 25% |
-| Execution of individual projects | 25% |
-| Class participation | 25% |
-| Demonstrated growth over the course of the semester | 25% 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+PERCENTAGES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Concept of individual projects
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Execution of individual projects
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class participation
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Demonstrated growth over the course of the semester
+{{< tdclose >}}
+{{< tdopen >}}
+25%
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
   
 

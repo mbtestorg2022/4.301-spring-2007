@@ -4,21 +4,218 @@ title: Calendar
 uid: 44723501-09d9-ccaa-219d-0306b1668489
 ---
 
-| SES # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Handout: Assignment descriptions, what's expected, grades, attendance {{< br >}}{{< br >}} Class Description: 3 assignments with one theme through them all {{< br >}}{{< br >}} Body Extension examples {{< br >}}{{< br >}} Attendance {{< br >}}{{< br >}} Lecture: Art {{< br >}}{{< br >}}  |
-| 2 |  {{< br >}}{{< br >}} Give Body Extension assignment: Build a puppet {{< br >}}{{< br >}} Slideshow: Various puppets {{< br >}}{{< br >}} Woodshop demo that day {{< br >}}{{< br >}}  |
-| 3 |  {{< br >}}{{< br >}} Mold-making demo {{< br >}}{{< br >}} Sewing demo {{< br >}}{{< br >}} Valentine candy and juice {{< br >}}{{< br >}}  |
-| 4 | Presentations: Drawing or presentation of type of puppet |
-| 5-7 | Workday |
-| 8-9 | Body Extension critique |
-| 10 |  {{< br >}}{{< br >}} Video assignment {{< br >}}{{< br >}} Discuss reading {{< br >}}{{< br >}} Technical lecture {{< br >}}{{< br >}}  |
-| 11 | Visiting artist: Jason Scheidel |
-| 12-13 | Workday |
-| 14-15 | Video critique |
-| 16 |  {{< br >}}{{< br >}} Lecture {{< br >}}{{< br >}} Assignment {{< br >}}{{< br >}} Blackboard {{< br >}}{{< br >}}  |
-| 17 |  {{< br >}}{{< br >}} Reading discussion {{< br >}}{{< br >}} Field trip/video (Out in world with puppet exercise) {{< br >}}{{< br >}}  |
-| 18 |  {{< br >}}{{< br >}} Individual presentations {{< br >}}{{< br >}} Group brainstorm {{< br >}}{{< br >}}  |
-| 19-23 | Workday |
-| 24-25 | Show |
-| 26-27 | Individual critique
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Handout: Assignment descriptions, what's expected, grades, attendance
+
+Class Description: 3 assignments with one theme through them all
+
+Body Extension examples
+
+Attendance
+
+Lecture: Art
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Give Body Extension assignment: Build a puppet
+
+Slideshow: Various puppets
+
+Woodshop demo that day
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mold-making demo
+
+Sewing demo
+
+Valentine candy and juice
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Presentations: Drawing or presentation of type of puppet
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5-7
+{{< tdclose >}}
+{{< tdopen >}}
+Workday
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8-9
+{{< tdclose >}}
+{{< tdopen >}}
+Body Extension critique
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Video assignment
+
+Discuss reading
+
+Technical lecture
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Visiting artist: Jason Scheidel
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12-13
+{{< tdclose >}}
+{{< tdopen >}}
+Workday
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14-15
+{{< tdclose >}}
+{{< tdopen >}}
+Video critique
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Lecture
+
+Assignment
+
+Blackboard
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Reading discussion
+
+Field trip/video (Out in world with puppet exercise)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Individual presentations
+
+Group brainstorm
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19-23
+{{< tdclose >}}
+{{< tdopen >}}
+Workday
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24-25
+{{< tdclose >}}
+{{< tdopen >}}
+Show
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26-27
+{{< tdclose >}}
+{{< tdopen >}}
+Individual critique
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

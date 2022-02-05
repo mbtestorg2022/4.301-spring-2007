@@ -27,21 +27,322 @@ The work of the students from the class is presented below, organized by media t
 {{</ image-gallery >}}
 ### Project Videos
 
-|  {{< br >}}{{< br >}} Usman Akeju {{< br >}}{{< br >}} Shaping Time {{< br >}}{{< br >}} ![T1akeju.jpg]({{< resource_file c91ad44f-760f-747f-47d4-28e51b4ea81e >}}) {{< br >}}{{< br >}} Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2UsmanAkeju-ShapingTime-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Al Dahya {{< br >}}{{< br >}} Shaping Time {{< br >}}{{< br >}} ![T1dahya.jpg]({{< resource_file b76695d3-7ed7-1462-c39c-bf13796c0f20 >}}) {{< br >}}{{< br >}} Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F04/2AlDahya-ShapingTime-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Al Dahya {{< br >}}{{< br >}} Body Extension {{< br >}}{{< br >}} ![3AlDahyaBodyExtension.jpg]({{< resource_file e74e3712-4693-2455-4f10-650a723aed80 >}}) {{< br >}}{{< br >}} Video ([MP4 - 23MB](http://www.archive.org/download/MIT4.301F04/3AlDahya-BodyExtension-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Jennifer DeBoer {{< br >}}{{< br >}} Shaping Time {{< br >}}{{< br >}} ![2JenniferDeBoerShapingTime.jpg]({{< resource_file 8babfeb0-2079-f403-7485-ebbf08a43b00 >}}) {{< br >}}{{< br >}} Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2JenniferDeBoer-ShapingTime-220k.mp4)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Christy Eng {{< br >}}{{< br >}} Shaping Time {{< br >}}{{< br >}} ![2ChristyEngShapingTime.jpg]({{< resource_file c1709db1-8f70-b546-5d5a-97d250846a03 >}}) {{< br >}}{{< br >}} Video ([MP4 - 4MB](http://www.archive.org/download/MIT4.301F04/2ChristyEng-ShapingTime-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Christy Eng {{< br >}}{{< br >}} Body Extension {{< br >}}{{< br >}} ![3ChristyEngBodyExtension.jpg]({{< resource_file b3f1030e-852b-d1d0-8aef-85c1b9b82f9d >}}) {{< br >}}{{< br >}} Video ([MP4 - 23MB](http://www.archive.org/download/MIT4.301F04/3ChristyEng-BodyExtension-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Shauna Jin {{< br >}}{{< br >}} Made Public {{< br >}}{{< br >}} ![1ShaunaJinMadePublic.jpg]({{< resource_file 4f91d56f-8cd0-2fa8-d5d0-e33ebd854f7f >}}) {{< br >}}{{< br >}} Video ([MP4 - 6MB](http://www.archive.org/download/MIT4.301F04/1ShaunaJin-MadePublic-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Shauna Jin {{< br >}}{{< br >}} Shaping Time {{< br >}}{{< br >}} ![2ShaunaJinShapingTime.jpg]({{< resource_file 9d5463cb-6dda-dfd6-a3ed-b1cfb76e0d9e >}}) {{< br >}}{{< br >}} Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2ShaunaJin-ShapingTime-220k.mp4)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} David Lafferty {{< br >}}{{< br >}} Shaping Time {{< br >}}{{< br >}} ![2DavidLaffertyShapingTime.jpg]({{< resource_file 19839867-8117-cc02-0fe5-3ee8f303f57c >}}) {{< br >}}{{< br >}} Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2DavidLafferty-ShapingTime-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Shauntel Poulson {{< br >}}{{< br >}} Shaping Time {{< br >}}{{< br >}} ![2ShauntelPoulsonShapingTim.jpg]({{< resource_file 73880a1d-4ec2-c51a-b4f8-1d284c26f61b >}}) {{< br >}}{{< br >}} Video ([MP4 - 4MB](http://www.archive.org/download/MIT4.301F04/2ShauntelPoulson-ShapingTime-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Shauntel Poulson {{< br >}}{{< br >}} Body Extension {{< br >}}{{< br >}} ![3ShauntelPoulsonBodyExtens.jpg]({{< resource_file 3308dd70-3c64-63c0-584f-ad3aa2adcdf8 >}}) {{< br >}}{{< br >}} Video ([MP4 - 9MB](http://www.archive.org/download/MIT4.301F04/3ShauntelPoulson-BodyExtension-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Joaquin Ruiz {{< br >}}{{< br >}} Shaping Time {{< br >}}{{< br >}} ![2JoaquinRuizShapingTime.jpg]({{< resource_file 608325e8-8a1f-7429-ac1d-b8c339ebd601 >}}) {{< br >}}{{< br >}} Video ([MP4 - 6MB](http://www.archive.org/download/MIT4.301F04/2JoaquinRuiz-ShapingTime-220k.mp4)) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} Tiffany Wang {{< br >}}{{< br >}} Shaping Time {{< br >}}{{< br >}} ![2TiffanyWangShapingTime.jpg]({{< resource_file e93eab1e-ebb2-be61-3947-c1da4a4942e5 >}}) {{< br >}}{{< br >}} Video ([MP4 - 4MB](http://www.archive.org/download/MIT4.301F04/2TiffanyWang-ShapingTime-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Tiffany Wang {{< br >}}{{< br >}} Body Extension {{< br >}}{{< br >}} ![3TiffanyWangBodyExtension.jpg]({{< resource_file 5f68b073-f8c0-070e-3160-f476e8ed335e >}}) {{< br >}}{{< br >}} Video ([MP4 - 7MB](http://www.archive.org/download/MIT4.301F04/3TiffanyWang-BodyExtension-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Usman Akeju
+
+Shaping Time
+
+![T1akeju.jpg]({{< resource_file c91ad44f-760f-747f-47d4-28e51b4ea81e >}})
+
+Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2UsmanAkeju-ShapingTime-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Al Dahya
+
+Shaping Time
+
+![T1dahya.jpg]({{< resource_file b76695d3-7ed7-1462-c39c-bf13796c0f20 >}})
+
+Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F04/2AlDahya-ShapingTime-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Al Dahya
+
+Body Extension
+
+![3AlDahyaBodyExtension.jpg]({{< resource_file e74e3712-4693-2455-4f10-650a723aed80 >}})
+
+Video ([MP4 - 23MB](http://www.archive.org/download/MIT4.301F04/3AlDahya-BodyExtension-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Jennifer DeBoer
+
+Shaping Time
+
+![2JenniferDeBoerShapingTime.jpg]({{< resource_file 8babfeb0-2079-f403-7485-ebbf08a43b00 >}})
+
+Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2JenniferDeBoer-ShapingTime-220k.mp4))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Christy Eng
+
+Shaping Time
+
+![2ChristyEngShapingTime.jpg]({{< resource_file c1709db1-8f70-b546-5d5a-97d250846a03 >}})
+
+Video ([MP4 - 4MB](http://www.archive.org/download/MIT4.301F04/2ChristyEng-ShapingTime-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Christy Eng
+
+Body Extension
+
+![3ChristyEngBodyExtension.jpg]({{< resource_file b3f1030e-852b-d1d0-8aef-85c1b9b82f9d >}})
+
+Video ([MP4 - 23MB](http://www.archive.org/download/MIT4.301F04/3ChristyEng-BodyExtension-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shauna Jin
+
+Made Public
+
+![1ShaunaJinMadePublic.jpg]({{< resource_file 4f91d56f-8cd0-2fa8-d5d0-e33ebd854f7f >}})
+
+Video ([MP4 - 6MB](http://www.archive.org/download/MIT4.301F04/1ShaunaJin-MadePublic-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shauna Jin
+
+Shaping Time
+
+![2ShaunaJinShapingTime.jpg]({{< resource_file 9d5463cb-6dda-dfd6-a3ed-b1cfb76e0d9e >}})
+
+Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2ShaunaJin-ShapingTime-220k.mp4))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+David Lafferty
+
+Shaping Time
+
+![2DavidLaffertyShapingTime.jpg]({{< resource_file 19839867-8117-cc02-0fe5-3ee8f303f57c >}})
+
+Video ([MP4 - 5MB](http://www.archive.org/download/MIT4.301F04/2DavidLafferty-ShapingTime-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shauntel Poulson
+
+Shaping Time
+
+![2ShauntelPoulsonShapingTim.jpg]({{< resource_file 73880a1d-4ec2-c51a-b4f8-1d284c26f61b >}})
+
+Video ([MP4 - 4MB](http://www.archive.org/download/MIT4.301F04/2ShauntelPoulson-ShapingTime-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Shauntel Poulson
+
+Body Extension
+
+![3ShauntelPoulsonBodyExtens.jpg]({{< resource_file 3308dd70-3c64-63c0-584f-ad3aa2adcdf8 >}})
+
+Video ([MP4 - 9MB](http://www.archive.org/download/MIT4.301F04/3ShauntelPoulson-BodyExtension-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Joaquin Ruiz
+
+Shaping Time
+
+![2JoaquinRuizShapingTime.jpg]({{< resource_file 608325e8-8a1f-7429-ac1d-b8c339ebd601 >}})
+
+Video ([MP4 - 6MB](http://www.archive.org/download/MIT4.301F04/2JoaquinRuiz-ShapingTime-220k.mp4))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Tiffany Wang
+
+Shaping Time
+
+![2TiffanyWangShapingTime.jpg]({{< resource_file e93eab1e-ebb2-be61-3947-c1da4a4942e5 >}})
+
+Video ([MP4 - 4MB](http://www.archive.org/download/MIT4.301F04/2TiffanyWang-ShapingTime-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Tiffany Wang
+
+Body Extension
+
+![3TiffanyWangBodyExtension.jpg]({{< resource_file 5f68b073-f8c0-070e-3160-f476e8ed335e >}})
+
+Video ([MP4 - 7MB](http://www.archive.org/download/MIT4.301F04/3TiffanyWang-BodyExtension-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Artist Statements
 
-| STUDENTS | STATEMENTS |
-| --- | --- |
-| Usman Akeju | Made Public ([PDF]({{< baseurl >}}/resources/1akeju))  {{< br >}}Shaping Time ([PDF]({{< baseurl >}}/resources/2usmanakeju))  {{< br >}}Body Extension ([PDF]({{< baseurl >}}/resources/3usmanakeju)) |
-| Al Dahya | Made Public ([PDF]({{< baseurl >}}/resources/1aidahya))  {{< br >}}Shaping Time ([PDF]({{< baseurl >}}/resources/2aidahya))  {{< br >}}Body Extension ([PDF]({{< baseurl >}}/resources/3aldahya)) |
-| Jennifer DeBoer | Made Public ([PDF]({{< baseurl >}}/resources/1jenniferdeboer))  {{< br >}}Shaping Time ([PDF]({{< baseurl >}}/resources/2jenniferdeboer))  {{< br >}}Body Extension ([PDF]({{< baseurl >}}/resources/3jenniferdeboer)) |
-| Christy Eng | Made Public ([PDF]({{< baseurl >}}/resources/1christyeng))  {{< br >}}Shaping Time ([PDF]({{< baseurl >}}/resources/2christyeng))  {{< br >}}Body Extension ([PDF]({{< baseurl >}}/resources/3christyeng)) |
-| Shauna Jin | Shaping Time ([PDF]({{< baseurl >}}/resources/2shaunajin)) |
-| David Lafferty | Made Public ([PDF]({{< baseurl >}}/resources/1davidlaff)) |
-| Shauntel Poulson | Made Public ([PDF]({{< baseurl >}}/resources/1shauntelpoulson))  {{< br >}}Shaping Time ([PDF]({{< baseurl >}}/resources/2shauntelpoulson))  {{< br >}}Body Extension ([PDF]({{< baseurl >}}/resources/3shauntelpoulson)) |
-| Joaquin Ruiz | Body Extension ([PDF]({{< baseurl >}}/resources/3joaquinruiz)) |
-| Tiffany Wang | Shaping Time ([PDF]({{< baseurl >}}/resources/2tiffanywang))
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENTS
+{{< thclose >}}
+{{< thopen >}}
+STATEMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Usman Akeju
+{{< tdclose >}}
+{{< tdopen >}}
+Made Public ([PDF]({{< baseurl >}}/resources/1akeju))  
+Shaping Time ([PDF]({{< baseurl >}}/resources/2usmanakeju))  
+Body Extension ([PDF]({{< baseurl >}}/resources/3usmanakeju))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Al Dahya
+{{< tdclose >}}
+{{< tdopen >}}
+Made Public ([PDF]({{< baseurl >}}/resources/1aidahya))  
+Shaping Time ([PDF]({{< baseurl >}}/resources/2aidahya))  
+Body Extension ([PDF]({{< baseurl >}}/resources/3aldahya))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Jennifer DeBoer
+{{< tdclose >}}
+{{< tdopen >}}
+Made Public ([PDF]({{< baseurl >}}/resources/1jenniferdeboer))  
+Shaping Time ([PDF]({{< baseurl >}}/resources/2jenniferdeboer))  
+Body Extension ([PDF]({{< baseurl >}}/resources/3jenniferdeboer))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Christy Eng
+{{< tdclose >}}
+{{< tdopen >}}
+Made Public ([PDF]({{< baseurl >}}/resources/1christyeng))  
+Shaping Time ([PDF]({{< baseurl >}}/resources/2christyeng))  
+Body Extension ([PDF]({{< baseurl >}}/resources/3christyeng))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Shauna Jin
+{{< tdclose >}}
+{{< tdopen >}}
+Shaping Time ([PDF]({{< baseurl >}}/resources/2shaunajin))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+David Lafferty
+{{< tdclose >}}
+{{< tdopen >}}
+Made Public ([PDF]({{< baseurl >}}/resources/1davidlaff))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Shauntel Poulson
+{{< tdclose >}}
+{{< tdopen >}}
+Made Public ([PDF]({{< baseurl >}}/resources/1shauntelpoulson))  
+Shaping Time ([PDF]({{< baseurl >}}/resources/2shauntelpoulson))  
+Body Extension ([PDF]({{< baseurl >}}/resources/3shauntelpoulson))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Joaquin Ruiz
+{{< tdclose >}}
+{{< tdopen >}}
+Body Extension ([PDF]({{< baseurl >}}/resources/3joaquinruiz))
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tiffany Wang
+{{< tdclose >}}
+{{< tdopen >}}
+Shaping Time ([PDF]({{< baseurl >}}/resources/2tiffanywang))
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

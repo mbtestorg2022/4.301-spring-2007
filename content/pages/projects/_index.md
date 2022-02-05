@@ -61,4 +61,56 @@ The work of the students from the class is presented below, organized by media t
 {{</ image-gallery >}}
 ### Shaping Time
 
-|  {{< br >}}{{< br >}} Daniel Campos {{< br >}}{{< br >}} ![camposs.jpg]({{< resource_file b2d10ebd-4fb5-d4cd-af99-95894a6a9556 >}}) {{< br >}}{{< br >}} Video ([MP4 - 2MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-camposs-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Matthew Faulkner {{< br >}}{{< br >}} ![faulkner.jpg]({{< resource_file 39cd94bc-d0ac-7dc4-31d2-22e69c4b2703 >}}) {{< br >}}{{< br >}} Video ([MP4 - 2MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-faulkner-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sal Pallante {{< br >}}{{< br >}} ![pallente.jpg]({{< resource_file ea8d539e-2886-1fa3-6416-cfa02eb51625 >}}) {{< br >}}{{< br >}} Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-pallente-220k.mp4)) {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Adam Shabshelowitz {{< br >}}{{< br >}} ![shabshelowitz.jpg]({{< resource_file 1b3f2320-51f6-5bf5-c0c4-5a048abd9d1a >}}) {{< br >}}{{< br >}} Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-shabshelowitz-220k.mp4)) {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+Daniel Campos
+
+![camposs.jpg]({{< resource_file b2d10ebd-4fb5-d4cd-af99-95894a6a9556 >}})
+
+Video ([MP4 - 2MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-camposs-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Matthew Faulkner
+
+![faulkner.jpg]({{< resource_file 39cd94bc-d0ac-7dc4-31d2-22e69c4b2703 >}})
+
+Video ([MP4 - 2MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-faulkner-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sal Pallante
+
+![pallente.jpg]({{< resource_file ea8d539e-2886-1fa3-6416-cfa02eb51625 >}})
+
+Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-pallente-220k.mp4))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Adam Shabshelowitz
+
+![shabshelowitz.jpg]({{< resource_file 1b3f2320-51f6-5bf5-c0c4-5a048abd9d1a >}})
+
+Video ([MP4 - 3MB](http://www.archive.org/download/MIT4.301F05/ocw-4.301-shabshelowitz-220k.mp4))
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
