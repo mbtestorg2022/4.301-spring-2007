@@ -7,6 +7,7 @@ image_metadata:
   caption: Lindsey Pete Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Lindsey Pete Body Extension Project.
+parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 resourcetype: Image
 title: Lindsey Pete Body Extension Project.jpeg
 uid: 50aa5e24-0642-27a5-e3dc-303b1a0f5898

@@ -7,6 +7,7 @@ image_metadata:
   caption: Usman Akeju Made Public project "The Picnic"
   credit: Image courtesy of Usman Akeju
   image-alt: ''
+parent_uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 resourcetype: Image
 title: 1akeju.jpg
 uid: 746eb445-eac7-1a4e-374d-a16d0ffd1dcd

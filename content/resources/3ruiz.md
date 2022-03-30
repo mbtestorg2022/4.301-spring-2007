@@ -7,6 +7,7 @@ image_metadata:
   caption: Joaquin Ruiz Body Extension project "Head Shot"
   credit: Image courtesy of Joaquin Ruiz
   image-alt: Joaquin Ruiz Body Extension project "Head Shot"
+parent_uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 resourcetype: Image
 title: 3ruiz.jpg
 uid: 21ce0574-f060-a0a4-78ec-7f3479f04cb8

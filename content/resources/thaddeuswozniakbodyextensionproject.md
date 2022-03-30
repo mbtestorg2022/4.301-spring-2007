@@ -7,6 +7,7 @@ image_metadata:
   caption: Thaddeus Wozniak Body Extension Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: 'Thaddeus Wozniak Body Extension Project. '
+parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 resourcetype: Image
 title: Thaddeus Wozniak Body Extension Project.jpeg
 uid: dc5db572-2549-8503-da6a-ed4db80f2299

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 resourcetype: Image
 title: Victor Wang Body Extension Project.jpeg
 uid: 3d2c8fde-f3f5-59cc-6780-adf83dd3fe5d

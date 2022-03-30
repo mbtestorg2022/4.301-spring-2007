@@ -7,6 +7,7 @@ image_metadata:
   caption: Jennifer DeBoer Body Extension project "Hanging Up"
   credit: Image courtesy of Jennifer DeBoer
   image-alt: Jennifer DeBoer Body Extension project "Hanging Up"
+parent_uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 resourcetype: Image
 title: 3deboer.jpg
 uid: 03a3b21b-7268-b1c3-9508-22f7e285d59c

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2e9b3e35-8a0f-d12c-2481-92291c34e3d3
 resourcetype: Image
 title: T3ruiz.jpg
 uid: 932217d9-0ecf-9c67-1c05-4e27ffffa64e

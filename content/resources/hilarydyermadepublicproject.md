@@ -7,6 +7,7 @@ image_metadata:
   caption: Hilary Dyer Made Public Project.
   credit: Image courtesy of MIT OpenCourseWare.
   image-alt: Hilary Dyer Made Public Project.
+parent_uid: 8c77198b-5306-43e0-e057-28b019b4e522
 resourcetype: Image
 title: Hilary Dyer Made Public Project.jpeg
 uid: 8ddfd532-aff6-20a8-0f8a-94a8c30f2c2d

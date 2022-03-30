@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 2e9b3e35-8a0f-d12c-2481-92291c34e3d3
 resourcetype: Image
 title: 2TiffanyWangShapingTime.jpg
 uid: e93eab1e-ebb2-be61-3947-c1da4a4942e5

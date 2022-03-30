@@ -7,6 +7,7 @@ image_metadata:
   caption: Al Dahya Made Public project "Upon a Blank Slate"
   credit: Image courtesy of Al Dahya
   image-alt: Al Dahya Made Public project "Upon a Blank Slate"
+parent_uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 resourcetype: Image
 title: 1dahya.jpg
 uid: e48a6653-ebac-3234-f04a-6b5f186c731b

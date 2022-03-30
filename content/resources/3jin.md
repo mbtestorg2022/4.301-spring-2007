@@ -7,6 +7,7 @@ image_metadata:
   caption: Shauna Jin Body Extension project "Untitled"
   credit: Image courtesy of Shauna Jin
   image-alt: Shauna Jin Body Extension project "Untitled"
+parent_uid: d8c0f18b-d364-943c-ca0d-62602a9d06f9
 resourcetype: Image
 title: 3jin.jpg
 uid: ab0d271a-bcbb-ad4f-5c45-539039c24e83
